@@ -9,7 +9,9 @@ YouTube maintains a list of the top trending videos. YouTube uses a combination 
 
 ## Dataset
 
-This dataset is a daily record of the top trending YouTube videos between November 2017 and May 2018. Data is included for the US, GB, DE, CA, FR, RU, MX, KR, JP and IN regions (USA, Great Britain, Germany, Canada, France, Russia, Mexico, South Korea, Japan and India respectively), with up to 200 listed trending videos per day. Each country has about 40,000 entries total.https://github.com/sborodach/central-limit-theorem.git
+The dataset is a daily record of the top trending YouTube videos between November 2017 and May 2018. Data is included for the US, GB, DE, CA, FR, RU, MX, KR, JP and IN regions (USA, Great Britain, Germany, Canada, France, Russia, Mexico, South Korea, Japan and India respectively), with up to 200 listed trending videos per day. Each country has about 40,000 entries total.
+
+At 514 MB, the data filea are too large to be included with thtis repository and can be downloaded here: https://www.kaggle.com/datasnaek/youtube-new
 
 Each region’s data is in a separate file. Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count.
 
